@@ -1,4 +1,4 @@
-## Customer Segmentation Using K-Means Clustering
+# Customer Segmentation Using K-Means Clustering
 
 ## 📌 Problem Statement
 
@@ -13,7 +13,7 @@ We applied K-Means Clustering to segment customers based on:
 * Annual Income
 * Spending Score
 
----
+-----
 
 ## ⚙️ Tech Stack
 
@@ -44,7 +44,7 @@ Customers were grouped into 3 clusters:
 * Low spenders → Discounts
 * Medium customers → Personalized recommendations
 
----
+------
 
 ## 💡 Business Impact
 
